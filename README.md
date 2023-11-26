@@ -1,10 +1,21 @@
-### Hi there 👋
+# Chaimaa Louadni
 
-I'm Chaimaa LOUADNI, a passionate Software engineering student from Morocco.
-
-- 📫 I’m currently learning Android app development.
-- <a href="mailto:louadnichaima@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaimaaLou&show_icons=true&hide=issues)](https://github.com/ChaimaaLou)
+<img
+  align="right"
+  width="300px"
+  src="./bioImg.svg"
+/>
+<span align="left">
+  <a href="www.linkedin.com/in/chaimaa-louadni-3b002621a">
+    <img src="https://img.shields.io/badge/-Chaimaa_LOUADNI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chaimaa-louadni-3b002621a" />
+  </a>
+  <a href="mailto:louadnichaima@gmail.com">
+    <img src="https://img.shields.io/badge/-louadnichaima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louadnichaima@gmail.com" />
+  </a>
+  <a href="https://github.com/ChaimaaLou">
+    <img src="https://img.shields.io/github/followers/ChaimaaLou?label=Follow&style=social" />
+  </a>
+</span>
