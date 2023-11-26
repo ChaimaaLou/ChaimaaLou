@@ -8,11 +8,6 @@
   width="300px"
   src="./bioImg.svg"
 />
-<style>
-  a {
-    text-decoration: none; /* Removes underline */
-  }
-</style>
 
 <span align="left">
   <a href="www.linkedin.com/in/chaimaa-louadni-3b002621a">
