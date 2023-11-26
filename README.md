@@ -8,6 +8,12 @@
   width="300px"
   src="./bioImg.svg"
 />
+<style>
+  a {
+    text-decoration: none; /* Removes underline */
+  }
+</style>
+
 <span align="left">
   <a href="www.linkedin.com/in/chaimaa-louadni-3b002621a">
     <img src="https://img.shields.io/badge/-Chaimaa_LOUADNI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chaimaa-louadni-3b002621a" />
