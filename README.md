@@ -1,7 +1,5 @@
 # Chaimaa Louadni
 
-
-
 <img
   align="right"
   width="300px"
