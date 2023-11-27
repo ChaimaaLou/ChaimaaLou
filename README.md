@@ -1,4 +1,4 @@
-# Chaimaa Louadni
+# Chaimaa LOUADNI
 
 <img
   align="right"
