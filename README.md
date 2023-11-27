@@ -6,7 +6,7 @@
 <img
   align="right"
   width="300px"
-  src="./bioImg.svg"
+  src="./me.png"
 />
 
 <span align="left">
