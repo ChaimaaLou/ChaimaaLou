@@ -24,9 +24,9 @@ I’m Chaimaa, a Software Engineering graduate from ENSA-K, where I spent equal 
 I’m always on the lookout for new challenges where I can bring my skills, a touch of innovation, and maybe even a little fun to the tech world. Let’s build something awesome together!
 
 </p>
-<br> 
+<!--<br> 
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaLou&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
 />
-<br>
+<br>-->
