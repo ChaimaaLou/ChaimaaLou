@@ -18,11 +18,11 @@
 </span>
 
 <p>
-Hi! I’m Chaimaa, a software engineer with a strong background in backend systems, AI-powered applications, and distributed architectures. I’m currently completing a Master’s degree at Sorbonne Université, where I work on advanced projects ranging from semantic search and RAG systems to reactive, event-driven architectures and formally verified software.
+Hi! I’m Chaimaa, a software engineer passionate about building intelligent, reliable systems. I’m currently pursuing a Master’s degree at Sorbonne Université, where I work on projects involving AI-driven search, RAG pipelines, backend architectures, and distributed systems.
 
-My journey started with web and mobile development, and naturally evolved toward AI integration in real-world systems — not just building models, but making them usable, scalable, and production-ready. I enjoy turning complex problems into clean, reliable solutions, whether that’s through well-designed APIs, intelligent search pipelines, or robust backend services.
+I started with web and mobile development, and gradually moved toward AI integration in production environments — focusing on how systems behave, scale, and stay robust in the real world. I love learning, experimenting, and transforming complex ideas into practical solutions.
 
-I’m driven by curiosity, impact, and long-term vision, and I’m always excited by challenges at the intersection of software engineering, AI, and system design. Let’s build things that actually matter 🚀
+Always open to new challenges, meaningful projects, and collaborations ✨
 
 
 </p>
