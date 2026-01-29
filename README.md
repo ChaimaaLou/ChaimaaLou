@@ -18,11 +18,19 @@
 </span>
 
 <p>
-Hi there!
-I’m Chaimaa, a Software Engineering graduate from ENSA-K, where I spent equal amounts of time mastering code and convincing my laptop not to crash. I’m passionate about mobile and web development, and I have a growing obsession with AI (no, it hasn’t taken over my brain… yet). Through my education and projects, I’ve learned to turn creative ideas into functional, smart solutions.
+Hi! I’m Chaimaa, a software engineer with a strong background in backend systems, AI-powered applications, and distributed architectures. I’m currently completing a Master’s degree at Sorbonne Université, where I work on advanced projects ranging from semantic search and RAG systems to reactive, event-driven architectures and formally verified software.
 
-I’m always on the lookout for new challenges where I can bring my skills, a touch of innovation, and maybe even a little fun to the tech world. Let’s build something awesome together!
+My journey started with web and mobile development, and naturally evolved toward AI integration in real-world systems — not just building models, but making them usable, scalable, and production-ready. I enjoy turning complex problems into clean, reliable solutions, whether that’s through well-designed APIs, intelligent search pipelines, or robust backend services.
 
+I’m driven by curiosity, impact, and long-term vision, and I’m always excited by challenges at the intersection of software engineering, AI, and system design. Let’s build things that actually matter 🚀
+
+Slightly more casual / LinkedIn-friendly version
+
+Hi! I’m Chaimaa, a software engineer passionate about building intelligent, reliable systems. I’m currently pursuing a Master’s degree at Sorbonne Université, where I work on projects involving AI-driven search, RAG pipelines, backend architectures, and distributed systems.
+
+I started with web and mobile development, and gradually moved toward AI integration in production environments — focusing on how systems behave, scale, and stay robust in the real world. I love learning, experimenting, and transforming complex ideas into practical solutions.
+
+Always open to new challenges, meaningful projects, and collaborations ✨
 </p>
 <!--<br> 
 <img
