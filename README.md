@@ -24,13 +24,7 @@ My journey started with web and mobile development, and naturally evolved toward
 
 I’m driven by curiosity, impact, and long-term vision, and I’m always excited by challenges at the intersection of software engineering, AI, and system design. Let’s build things that actually matter 🚀
 
-Slightly more casual / LinkedIn-friendly version
 
-Hi! I’m Chaimaa, a software engineer passionate about building intelligent, reliable systems. I’m currently pursuing a Master’s degree at Sorbonne Université, where I work on projects involving AI-driven search, RAG pipelines, backend architectures, and distributed systems.
-
-I started with web and mobile development, and gradually moved toward AI integration in production environments — focusing on how systems behave, scale, and stay robust in the real world. I love learning, experimenting, and transforming complex ideas into practical solutions.
-
-Always open to new challenges, meaningful projects, and collaborations ✨
 </p>
 <!--<br> 
 <img
